@@ -1,1 +1,1 @@
-# travis-power-recipies
+# travis-power-recipes
